@@ -7,7 +7,7 @@ System.out.println("Hello World");
 System.out.println("Hello World");
 System.out.println("Hello World");
 System.out.println("Hello World");
-System.out.println("Hello World");
+System.out.println("Hello World")
 
 <!---
 niranjansomasundaram/niranjansomasundaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
